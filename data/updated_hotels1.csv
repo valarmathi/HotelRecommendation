@@ -1,0 +1,295 @@
+url,address,name,online_order,book_table,rate,votes,phone,location,rest_type,dish_liked,cuisines,approx_cost(for two people),reviews_list,menu_item,listed_in(type),listed_in(city),Description,hotel_preference
+https://www.zomato.com/bangalore/jalsa-banashankari?context=eyJzZSI6eyJlIjpbNTg2OTQsIjE4Mzc1NDc0IiwiNTkwOTAiLCIxODM4Mjk0NCIsIjE4MjI0Njc2IiwiNTkyODkiLCIxODM3MzM4NiJdLCJ0IjoiUmVzdGF1cmFudHMgaW4gQmFuYXNoYW5rYXJpIHNlcnZpbmcgQnVmZmV0In19,"942, 21st Main Road, 2nd Stage, Banashankari, Bangalore",Jalsa,Yes,Yes,4.1/5,775,080 42297555,Banashankari,Casual Dining,"Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, Sweet Corn Soup","North Indian, Mughlai, Chinese",800,"[('Rated 4.0', 'RATED
+æ A beautiful place to dine in.The interiors take you back to the Mughal era. The lightings are just perfect.We went there on the occasion of Christmas and so they had only limited items available. But the taste and service was not compromised at all.The only complaint is that the breads could have been better.Would surely like to come here again.'), ('Rated 4.0', 'RATED
+æ I was here for dinner with my family on a weekday. The restaurant was completely empty. Ambience is good with some good old hindi music. Seating arrangement are good too. We ordered masala papad, panner and baby corn starters, lemon and corrionder soup, butter roti, olive and chilli paratha. Food was fresh and good, service is good too. Good for family hangout.
+Cheers'), ('Rated 2.0', 'RATED
+æ Its a restaurant near to Banashankari BDA. Me along with few of my office friends visited to have buffet but unfortunately they only provide veg buffet. On inquiring they said this place is mostly visited by vegetarians. Anyways we ordered ala carte items which took ages to come. Food was ok ok. Definitely not visiting anymore.'), ('Rated 4.0', 'RATED
+æ We went here on a weekend and one of us had the buffet while two of us took Ala Carte. Firstly the ambience and service of this place is great! The buffet had a lot of items and the good was good. We had a Pumpkin Halwa intm the dessert which was amazing. Must try! The kulchas are great here. Cheers!'), ('Rated 5.0', 'RATED
+æ The best thing about the place is itÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâs ambiance. Second best thing was yummy ? food. We try buffet and buffet food was not disappointed us.
+Test ?. ?? ?? ?? ?? ??
+Quality ?. ??????????.
+Service: Staff was very professional and friendly.
+
+Overall experience was excellent.
+
+subirmajumder85.wixsite.com'), ('Rated 5.0', 'RATED
+æ Great food and pleasant ambience. Expensive but Coll place to chill and relax......
+
+Service is really very very good and friendly staff...
+
+Food : 5/5
+Service : 5/5
+Ambience :5/5
+Overall :5/5'), ('Rated 4.0', 'RATED
+æ Good ambience with tasty food.
+Cheese chilli paratha with Bhutta palak methi curry is a good combo.
+Lemon Chicken in the starters is a must try item.
+Egg fried rice was also quite tasty.
+In the mocktails, recommend ""Alice in Junoon"". Do not miss it.'), ('Rated 4.0', 'RATED
+æ You canÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåât go wrong with Jalsa. Never been a fan of their buffet and thus always order alacarteÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâ. Service at times can be on the slower side but food is worth the wait.'), ('Rated 5.0', 'RATED
+æ Overdelighted by the service and food provided at this place. A royal and ethnic atmosphere builds a strong essence of being in India and also the quality and taste of food is truly authentic. I would totally recommend to visit this place once.'), ('Rated 4.0', 'RATED
+æ The place is nice and comfortable. Food wise all jalea outlets maintain a good standard. The soya chaap was a standout dish. Clearly one of trademark dish as per me and a must try.
+
+The only concern is the parking. It very congested and limited to just 5cars. The basement parking is very steep and makes it cumbersome'), ('Rated 4.0', 'RATED
+æ The place is nice and comfortable. Food wise all jalea outlets maintain a good standard. The soya chaap was a standout dish. Clearly one of trademark dish as per me and a must try.
+
+The only concern is the parking. It very congested and limited to just 5cars. The basement parking is very steep and makes it cumbersome'), ('Rated 4.0', 'RATED
+æ The place is nice and comfortable. Food wise all jalea outlets maintain a good standard. The soya chaap was a standout dish. Clearly one of trademark dish as per me and a must try.
+
+The only concern is the parking. It very congested and limited to just 5cars. The basement parking is very steep and makes it cumbersome')]",[],Buffet,Banashankari,"Experience a delightful culinary journey at our Buffet restaurant located in the vibrant Banashankari area. With an approximate cost of _800 for two people, indulge in a variety of exquisite cuisines including North Indian, Mughlai, and Chinese. Our highly rated restaurant, with 775 votes, reflects the satisfaction of our valued customers. Enjoy the convenience of online ordering and the option to book a table to ensure your spot in our popular dining area.
+
+Savor our highly recommended dishes such as Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, and Sweet Corn Soup. Whether you are planning a casual meal or a special gathering, our buffet offers a delectable spread that caters to all tastes.","{'City': 'Banashankari', 'RestaurantType': ['Casual Dining', 'Buffet'], 'ApproximateCost': 800, 'Cuisine': ['North Indian', 'Mughlai', 'Chinese'], 'Votes': 'high'}"
+https://www.zomato.com/bangalore/spice-elephant-banashankari?context=eyJzZSI6eyJlIjpbIjU4Njk0IiwxODM3NTQ3NCwiNTkwOTAiLCIxODM4Mjk0NCIsIjE4MjI0Njc2IiwiNTkyODkiLCIxODM3MzM4NiJdLCJ0IjoiUmVzdGF1cmFudHMgaW4gQmFuYXNoYW5rYXJpIHNlcnZpbmcgQnVmZmV0In19,"2nd Floor, 80 Feet Road, Near Big Bazaar, 6th Block, Kathriguppe, 3rd Stage, Banashankari, Bangalore",Spice Elephant,Yes,No,4.1/5,787,080 41714161,Banashankari,Casual Dining,"Momos, Lunch Buffet, Chocolate Nirvana, Thai Green Curry, Paneer Tikka, Dum Biryani, Chicken Biryani","Chinese, North Indian, Thai",800,"[('Rated 4.0', 'RATED
+æ Had been here for dinner with family. Turned out to be a good choose suitable for all ages of people. Can try this place. We liked the most was their starters. Service is good. Prices are affordable. Will recommend this restaurant for early dinner. The place is little noisy.'), ('Rated 3.0', 'RATED
+æ The ambience is really nice, staff is courteous. The price is pretty high for the quantity, but overall the experience was fine. The quality of food is nice but nothing extraordinary. They also have buffet(only veg)'), ('Rated 3.0', 'RATED
+æ I felt good is little expensive for the quantity they serve and In terms of taste is decent. There is nothing much to talk about the ambience, regular casual dining restaurant where you can take your family for dinner or lunch. If they improve on that quantity or may be reduce the price a bit or may be improve the presentation of the food it might Manage to get more repeat customers.'), ('Rated 4.0', 'RATED
+æ I was looking for a quite place to spend some time with family and as well wanted to try some new place. Since I was at Banashankari I thought of trying this place. The place had good rating and was part of Zomato gold. So I decided to try this place. It was a delite to see a very friendly staff and food we ordered was very tasty as well.
+
+Food : 4/5
+Ambience :3/5
+Friendly staff : 4/5
+Pocket friendly : 4/5
+
+Will definitely visit again ??'), ('Rated 4.0', ""RATED
+æ Nice place to dine and has a good ambiance... Food is good and the serving time is also good..neat restrooms and we'll arranged tables....only thing is we went at 12.30 for lunch...and we noticed that they kept on playing one music back to back which was a little annoying...
+
+1. Chicken biriyani was so good and the chicken was fresh and tender ,rice was well cooked and overall was great
+
+2. Mutton biriyani was very very good and tasty and It had plenty of mutton pieces...""), ('Rated 5.0', 'RATED
+æ This place just cool ? with good ambience and slow music and having delicious food is where you find peace. Staff very friendly and they have maintained the place so clean. The price is average for what the quantity of food they serve.
+Thom yum Thai soup was best and was treat to mouth, roti was soft with that vilaythi paneer was perfect to have for veggie foodies, in rice we tried burnt garlic fried rice with vegetables and it was the perfect thing to end.'), ('Rated 4.0', ""RATED
+æ Quiet a good family type of place.. too calm and usually we don't find crowd here.. panner curry and the deserts is what we had tasted.. they wer really good but we found it a little expensive""), ('Rated 2.0', ""RATED
+æ I had a very bad experience here.
+I don't know about a la carte, but the buffet was the worst. They gave us complementary drink and momos before the buffet. The momos were really good.
+The number of varieties first of all was very disappointing. The service was very slow. They refilled the food very slowly. The starters were okay. The main course also was so so. There was two gravies with roti and some rice with raitha. They had chats, sev puri and pan puri, which was average. But the desert was disappointing. They had gulab Jamun and chocolate cake. The jamun was not cooked inside. There was a cold blob of raw dough inside. The chocolate cake also was really hard and not that good.
+Overall the buffet was a bad experience for me.""), ('Rated 4.0', ""RATED
+æ Food: 8/10
+Ambience:8/10
+Staff:8/10
+One of the good places to try north Indian food...but depends on ur taste buds. Not everyone will like all the items here. Specially when u r particular abt sweet and spicy food.
+There's buffet available too.
+We had ordered paneer uttar dakshin and paneer kurchan..was amazing. The Gobi hara pyaz and mix veg were average.""), ('Rated 3.0', 'RATED
+æ A decent place for a family lunch or dinner.. well arranged in a simple manner. Food was tasty and the crew was very helpful and understanding..'), ('Rated 4.0', ""RATED
+æ Great place to have a heavy lunch. Good service.
+The chicken biryani was undoubtedly one of the best I've had. Biriyani and Lassi would be the suggested combo. Buffet is the talk of the place, so try according to your appetite. A nice place.""), ('Rated 4.0', 'RATED
+æ Its the one restaurant near katriguppe that i found was really good. Good variety of Chinese and thai dishes. Service is good and good place to hangout with family as its a peaceful place where noise is really less and good view.'), ('Rated 2.0', ""RATED
+æ Spice elephant soup SPL: almost manchow flavour soup.. Just above medium spicy
+
+Lasooni fish tikka was awesome
+
+I don't remember the dessert name but I have attached the photo .. It had vanilla ice inside wafers... Wafer was hell hard, egg smell chewy ... Nightmare dessert !
+
+Table leg space was very bad... I was so uncomfortable, the whole time kept on adjusting my legs
+
+No parking
+
+For the taste felt this is too costly""), ('Rated 4.0', 'RATED
+æ Zomato gold partner at this price. It was insane. They have really nice food. small place with very courteous staff and very cheap food for this ambience. Cost of soups is 80-100. Starters from 150-250. Main course 200-300. Cost for two was 800 for us.')]",[],Buffet,Banashankari,"Discover an exceptional Buffet experience at our restaurant in the bustling Banashankari area. With an approximate cost of _800 for two people, treat yourself to a diverse array of cuisines including Chinese, North Indian, and Thai. Our restaurant is well-loved, boasting 787 votes from satisfied customers. While we do not offer table booking, you can enjoy the convenience of online ordering.
+
+Don't miss our highly recommended dishes such as Momos, Lunch Buffet, Chocolate Nirvana, Thai Green Curry, Paneer Tikka, Dum Biryani, and Chicken Biryani. Whether you're planning a casual meal or looking to explore new flavors, our buffet promises a culinary adventure that caters to all preferences.","{'City': 'Banashankari', 'RestaurantType': 'Buffet', 'ApproximateCost': 800, 'Cuisine': ['Chinese', 'North Indian', 'Thai'], 'Votes': 'high'}"
+https://www.zomato.com/SanchurroBangalore?context=eyJzZSI6eyJlIjpbIjU4Njk0IiwiMTgzNzU0NzQiLDU5MDkwLCIxODM4Mjk0NCIsIjE4MjI0Njc2IiwiNTkyODkiLCIxODM3MzM4NiJdLCJ0IjoiUmVzdGF1cmFudHMgaW4gQmFuYXNoYW5rYXJpIHNlcnZpbmcgQnVmZmV0In19,"1112, Next to KIMS Medical College, 17th Cross, 2nd Stage, Banashankari, Bangalore",San Churro Cafe,Yes,No,3.8/5,918,+91 9663487993,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,"[('Rated 3.0', ""RATED
+æ Ambience is not that good enough and it's not a pocket friendly cafe and the quantity is not that good and desserts are too good enough ??..""), ('Rated 3.0', ""RATED
+ 
+Went there for a quick bite with friends.
+The ambience had more of corporate feel. I would say it was unique.
+Tried nachos, pasta churros and lasagne.
+
+Nachos were pathetic.( Seriously don't order)
+Pasta was okayish.
+Lasagne was good.
+Nutella churros were the best.
+Overall an okayish experience!
+Peace ??""), ('Rated 4.0', ""RATED
+æ First of all, a big thanks to the staff of this Cafe. Very polite and courteous.
+
+I was there 15mins before their closing time. Without any discomfort or hesitation, the staff welcomed me with a warm smile and said they're still open, though they were preparing to close the cafe for the day.
+
+Quickly ordered the Thai green curry, which is served with rice. They got it for me within 10mins, hot and freshly made.
+
+It was tasty with the taste of coconut milk. Not very spicy, it was mild spicy.
+
+I saw they had yummy looking dessert menu, should go there to try them out!
+
+A good spacious place to hang out for coffee, pastas, pizza or Thai food.""), ('Rated 3.0', ""RATED
+æ A place for people who love churos. Otherwise it's a normal simple cafe like any other in town . Can go and spend the evening there . The positive being it is one of the better cafes in and around Banashankari and also the place is not very crowded .""), ('Rated 3.0', 'RATED
+æ Have been visiting this place since years. The quality has gone down drastically. Food quality has become very average from good. Service is also very bad of late.'), ('Rated 1.0', 'RATED
+æ Really disappointed with the place.
+
+Seems like a old dusty store room stacked up with old sofas and chairs! The decor is soo disappointing that I cannot put it in words!
+Lastly the food was cherry on the cake to make it a complete worse meal.
+
+This place is the last option you should ever consider.'), ('Rated 3.0', 'RATED
+æ Congested atmosphere due to smoke from kitchen
+Ambience was k
+Service was k .
+Churos was a new experience recommended
+Near to kims . Parking was not der'), ('Rated 1.0', ""RATED
+æ Cockroaches !! I Repeat cockroaches!!Bakasura was disappointed.
+Being in Banashankari, being a gold outlet and nesting them? who can even think of that. Thankfully it wasn't over bakasura's plate. The ambience was last cleaned a decade back i guess. A cockroach just walked over our table. As it was alive, and well moving , the bakasura couldnt take a pic of it. Then the staff had to actually take it out of our table. Such ambience ? like what are you upto?
+
+Bakasura disapproves. I dont even want to talk about the food.""), ('Rated 4.0', 'RATED
+æ A nice place to hangout, this place looks professional and also cute. If anyone is trying churros for the first the time, this is the place to go. Cheesecake is pretty amazing too.
+Recommended.'), ('Rated 4.0', 'RATED
+æ 1) pizza mocktails shakes and churros really very good
+2) staff good
+3) ambience simple and nice good
+4) location of San churro cafe very nice
+5) over San churro cafe good....'), ('Rated 3.0', ""RATED
+æ One of my favourite places that I often visit in South bangalore , but quality has been reduced than before. Little unhappy with the food this time.
+But their churros never dissapointed me. Staff are too slow and do not respond easily.
+
+Soups:
+Minestrone soup was like vegetable stock water with vegetables in it, not happy with it.
+
+Churros :
+It was great as usual. A must visit place if u love churros.
+
+Starters:
+1. Africano panner -
+It was bit sweet and not happy with the dish!!
+2. Loaded nachos -
+This happened to be their one of the best dishes, but now I take back my words. Very dissapointed with the dish.
+
+Main course:
+sicilia pizza
+Pizza was too good, it's a must try dish.
+
+Finally I would recommend this place for churros and pizza .
+
+Taste : 6/10
+Ambience :7/10
+Value for money : 8/10
+
+Overall experience : 7.5/10""), ('Rated 4.0', 'RATED
+æ Visited this place long before, place come to.notice with the decoration lights outside the cafe. We ordered churos, pizza and hot chocolate, all were good just I little priced more.'), ('Rated 4.0', 'RATED
+æ Spain pictures of Churros triggered Nostalgia about it , which led to Google search for Churro places in city , lucky we to get the result as San Churro cafe , we had an delectable churros here along with hot chocolate and Nachos ! Thanks for fulfilling our thirst of Spanish Churros !
+Food : ???
+Churros ???
+Hot Chocolate ?
+Nachos ??
+
+Service : ??
+
+Ambiance : ?
+
+Cleanliness : ??
+
+One drawback : Store had some flies, I hope they take care of them for our next tour ?'), ('Rated 3.0', 'RATED
+æ ÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâChocolaty and churroic experienceÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâ
+
+Hit chocolate and churro with chocolate dip in the picture.
+
+My first time at this restaurant and it has delivered in service, options as well as taste.'), ('Rated 4.0', 'RATED
+æ Though very sadly the place looks in need of retouching, but the food was great! Especially when it was super cold outside and we were super hungry, the staff was nice. We ordered the pink pasta and a pizza. Both of them were pretty good. Was really tempted to try their Churros but we were stuffed. Worth a visit and try for sure!'), ('Rated 3.0', ""RATED
+æ Churros, the restaurant's eponymous offering, has to be tried. They're a Mexican snack and served with chocolate sauce. Milkshakes are good too. The interior walls have murals and writings all over. Haven't tried the pizzas here but the cakes and pastries were pretty good.""), ('Rated 3.0', ""RATED
+æ Honestly, have only tried parcels and that too only starters and mains - never tried desserts. So this review is based on starters and mains only. The quality wasn't all that great, was pretty average.""), ('Rated 4.0', ""RATED
+æ Visited this place for the first time, recently. The ambience was pretty good. We ordered two 'churros for two'. Having churros for the first time ever, I was way too excited and judgmental. But swear to Lord, the churros were heavenly! The chocolate sauce was the actual chocolate sauce and not nutella xD We had taken the Cross Country Ranch pizza. It was a thin crust pizza loaded with veggies.
+The place is famous for churros (the name suggests so). I would love to visit again to try all the other items out :')""), ('Rated 4.0', 'RATED
+æ I love the desserts more than anything here !Good place and well served !:)
+We dint like the nachos here , it was not that good as we expected !
+Except nachos almost all dish were quite good!'), ('Rated 2.0', ""RATED
+æ 2nd time I have visited this place and I am surprised to see how it has declined. Churros was hard, pizza was pathetic, loaded nachos and masala Garlic bread were topped with cheese with MAYO! Yes mayonnese.. Soup has the bread crumbs in almost melted state, mocktails were average and our only Savior was pasta and caramel pudding... This place has high potential but let down by dull ambience, pretty slow and inattentive staff. Buffet price was listed as 399 but was charged 499, We still went ahead and took the deal to be very disappointed!! Most dishes were freshly cooked hence going with some starts else would rate them lower. I did not find a single person who seemed happy with their meal as moat complained about one thing or the other. That'll be my last visit San Churros."")]",[],Buffet,Banashankari,"Embark on a delightful culinary adventure at our Buffet restaurant located in the vibrant Banashankari area. With an approximate cost of _800 for two people, indulge in a variety of delectable cuisines including Cafe, Mexican, and Italian. Our restaurant has garnered 918 votes, reflecting the love and appreciation from our satisfied patrons. While we do not offer table booking, you can enjoy the convenience of online ordering.
+
+Treat yourself to our highly recommended dishes such as Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, and Veg Supreme Pizza. Whether youÕre looking for a casual meal or an exciting culinary exploration, our buffet provides a rich and varied dining experience that caters to all tastes.","{'City': 'Banashankari', 'RestaurantType': 'Buffet', 'ApproximateCost': 800, 'Cuisine': ['Cafe', 'Mexican', 'Italian'], 'Votes': 'high'}"
+https://www.zomato.com/bangalore/addhuri-udupi-bhojana-banashankari?context=eyJzZSI6eyJlIjpbIjU4Njk0IiwiMTgzNzU0NzQiLCI1OTA5MCIsMTgzODI5NDQsIjE4MjI0Njc2IiwiNTkyODkiLCIxODM3MzM4NiJdLCJ0IjoiUmVzdGF1cmFudHMgaW4gQmFuYXNoYW5rYXJpIHNlcnZpbmcgQnVmZmV0In19,"1st Floor, Annakuteera, 3rd Stage, Banashankari, Bangalore",Addhuri Udupi Bhojana,No,No,3.7/5,88,+91 9620009302,Banashankari,Quick Bites,Masala Dosa,"South Indian, North Indian",300,"[('Rated 4.0', ""RATED
+æ Great food and proper Karnataka style full meals. Been there twice and was fully satisfied.. Will give 5 stars if it's well managed............""), ('Rated 2.0', 'RATED
+æ Reached the place at 3pm on Saturday. Half of the items on the menu were over. What was annoying was is the food was cold. The taste was also very average. Only dosa and holige were good. There were very few people in the restaurant and the service was still very slow. The waiters were all standing in one corner and talking. Had to call them repeatedly.'), ('Rated 4.0', 'RATED
+æ Had been here, good food served and tasty,good place to go with freinds and family, should be first to get served well with all food. One of the good hotel there for this price.'), ('Rated 2.0', 'RATED
+æ How can a Udupi restaurant be so dirty.the floor the walls the waiters are all stained in food.Why cant they clean it? The floor even had decorative colour paper every where and lot of food.Now coming to the taste of the food- it was pretty decent for what they chargw.What upset us was the menu says they serve thambuli, two variety of rice etc but they were all over at 2.45 but they still charged us full amount.Lastly if u r ok to b seated with random people and adjust with their table manners( burrping etc) then tis place is decent for a quick veg udupi meals'), ('Rated 4.0', 'RATED
+æ Aadhuri Udupi bhojana is one of the best vegetarian hotel in and around Banashankari locality
+were we can enjoy the authentic south Karnataka style food.'), ('Rated 5.0', 'RATED
+æ One of the best restaurants for unlimited food. Price for one full unlimited meal is ?150 and the service is awesome here. If youÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâre a costalian you will love the food served here.'), ('Rated 4.0', ""RATED
+æ Been here a couple of times. Highly satisfying on both the ocassions. Great food. Decent service. At price of 160 per person it is of a great value. The staff here serves in a traditional Mysore style dresses. The food is authentic Karnataka meals. I really liked the pineapple pickle/chutney. They serve some 4 varities of rice of which you shouldn't try all as you would already be full. Roti, Dosa were decent. In the deserts, Payasam& Holige were good.
+I think it is one the must try places to try some authentic south food even if you have been to the likes of Kamath etc. this one is a little different. :)""), ('Rated 5.0', 'RATED
+æ Very good restorent good south Indian food very nice all food s are good we spent good time and food in this hotel value of money we loved it'), ('Rated 3.5', 'RATED
+æ I went to this restaurant on Sunday afternoon.It was a bit crowded.
+
+Its located in the 1st floor Above anna kuteera kathriguppe
+
+You need to take food coupon in the ground floor itself.
+it was 160 rs.
+
+Taste wise it was good.
+Service was slow.
+Nothing exciting/different in the menu.
+Whatever they serve its good.
+Worth for money.'), ('Rated 5.0', 'RATED
+æ Awesome place , worth with price , quality , quantity , service , hygiene and discipline I loved it ???? wish there were more rating stars to give I give 100 on 5 for sure'), ('Rated 3.5', 'RATED
+æ Nice food, good ambiance, so many verity of food, this time i was in hurry so, next review will be detailed one. Its good to see all dishes at one place'), ('Rated 1.5', 'RATED
+æ The food was not satisfactory. Not one item served could be eaten again . Only advantage is the price but even that is not going to be enough to make me visit the place again . Dear Udupi staff people wouldnÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåât mind if the food quality was better for a higher price and please get more fans so that people wonÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåâÌÄåÄÌÄåât have to deal with another disappointment of sweating while eating.'), ('Rated 5.0', 'RATED
+æ Excellent quality and taste, more variety of authentic south Indian food. Excellent service. Highly recommended. Worth the money we pay here.'), ('Rated 2.0', ""RATED
+æ I'm rating 2 only because of the large number of items they serve for the price they charge. While the taste is moderate, the biggest turn off is the poor service and totally unresponsive staff. They are either understaffed or poorly trained. I didn't get to taste a few items, thanks to their ever busy staff, and ended eating what was served. Please learn the crowd management from other peers like maiyya and roti ghar""), ('Rated 5.0', 'RATED
+æ One of my colleagues suggested this place. Went there at 1 pm and place wasnt crowded. Ambience is decent and cool. A welcome drink ""appekai saru"" was served. Then started..typical ""baale yele uta"" . Diffrerent types of palya, kosambari and sides. Then came masala dosa, pulka,pulav, veg rice bath. Masala dosa was very very tasty. Service is bit fast as people will be coming, but they will make it slow if u tell them to. Then comes rice with sambar,rasam, daal,tambali. And yes, dont forget to eat holige,payasam and icecream. Service is very nice. One best thing is all of this comes in just 160 rs and its unlimited!!! What else you want!! A must visit place for south indian foodie!'), ('Rated 3.0', ""RATED
+æ Been here last week with high expectations based on few reviews. But utterly disappointed with the food quality & taste. I feel it's an overhyped place! There are many better places in the vicinity for Plantain leaf meal. There was too much of waiting & these staffs were too hurry in serving food & asking people to finish meal & leave quickly. I can understand there is a waiting and staffs should approach in a positive way. I will never go there again!
+
+bangaloreepicure.com""), ('Rated 4.0', 'RATED
+æ I have a confession, being a south Indian I distaste south Indian food(not that I hate it, I don't like it either).But still made up my mind on Sankaranti to have authentic south Indian food visited ""Adduri Udupi Bhojana"" because it was close to my place.I just had a look at the menu told myself that I can do it(I am not blessed with a tremendous appetite).welcomed with the mango soup followed by the wide variety of dishes served, I have developed the new love for Pongal(both sweet and Khara).I can still feel the taste of the ghee bursting in my mouth but it was""kai holige"" that made my day, crisp and soft.not to forget food is served on a banana leaf that adds in more flavor and taste.waiters are attentive and responsive.The customer's needs are monitored and addressed.so much variety for just 160Rs without compromising on quantity and quality and yes it is unlimited.This visit turned out to be a surprise package.'), ('Rated 3.5', 'RATED
+æ Food is good.
+No parking
+Ambience is average
+Overall its value for money if you looking for south Indian food.
+Preferred the tiffin items......'), ('Rated 3.0', ""RATED
+æ Been here last week with high expectations based on few reviews. But utterly disappointed with the food quality & taste. I feel it's an overhyped place! There are many better places in the vicinity for Plantain leaf meal. There was too much of waiting & these staffs were too hurry in serving food & asking people to finish meal & leave quickly. I can understand there is a waiting and staffs should approach in a positive way. I will never go there again!
+
+bangaloreepicure.com""), ('Rated 4.0', 'RATED
+æ I have a confession, being a south Indian I distaste south Indian food(not that I hate it, I don't like it either).But still made up my mind on Sankaranti to have authentic south Indian food visited ""Adduri Udupi Bhojana"" because it was close to my place.I just had a look at the menu told myself that I can do it(I am not blessed with a tremendous appetite).welcomed with the mango soup followed by the wide variety of dishes served, I have developed the new love for Pongal(both sweet and Khara).I can still feel the taste of the ghee bursting in my mouth but it was""kai holige"" that made my day, crisp and soft.not to forget food is served on a banana leaf that adds in more flavor and taste.waiters are attentive and responsive.The customer's needs are monitored and addressed.so much variety for just 160Rs without compromising on quantity and quality and yes it is unlimited.This visit turned out to be a surprise package.'), ('Rated 3.5', 'RATED
+æ Food is good.
+No parking
+Ambience is average
+Overall its value for money if you looking for south Indian food.
+Preferred the tiffin items......'), ('Rated 3.0', ""RATED
+æ Been here last week with high expectations based on few reviews. But utterly disappointed with the food quality & taste. I feel it's an overhyped place! There are many better places in the vicinity for Plantain leaf meal. There was too much of waiting & these staffs were too hurry in serving food & asking people to finish meal & leave quickly. I can understand there is a waiting and staffs should approach in a positive way. I will never go there again!
+
+bangaloreepicure.com""), ('Rated 4.0', 'RATED
+æ I have a confession, being a south Indian I distaste south Indian food(not that I hate it, I don't like it either).But still made up my mind on Sankaranti to have authentic south Indian food visited ""Adduri Udupi Bhojana"" because it was close to my place.I just had a look at the menu told myself that I can do it(I am not blessed with a tremendous appetite).welcomed with the mango soup followed by the wide variety of dishes served, I have developed the new love for Pongal(both sweet and Khara).I can still feel the taste of the ghee bursting in my mouth but it was""kai holige"" that made my day, crisp and soft.not to forget food is served on a banana leaf that adds in more flavor and taste.waiters are attentive and responsive.The customer's needs are monitored and addressed.so much variety for just 160Rs without compromising on quantity and quality and yes it is unlimited.This visit turned out to be a surprise package.'), ('Rated 3.5', 'RATED
+æ Food is good.
+No parking
+Ambience is average
+Overall its value for money if you looking for south Indian food.
+Preferred the tiffin items......'), ('Rated 3.0', ""RATED
+æ Been here last week with high expectations based on few reviews. But utterly disappointed with the food quality & taste. I feel it's an overhyped place! There are many better places in the vicinity for Plantain leaf meal. There was too much of waiting & these staffs were too hurry in serving food & asking people to finish meal & leave quickly. I can understand there is a waiting and staffs should approach in a positive way. I will never go there again!
+
+bangaloreepicure.com""), ('Rated 4.0', 'RATED
+æ I have a confession, being a south Indian I distaste south Indian food(not that I hate it, I don't like it either).But still made up my mind on Sankaranti to have authentic south Indian food visited ""Adduri Udupi Bhojana"" because it was close to my place.I just had a look at the menu told myself that I can do it(I am not blessed with a tremendous appetite).welcomed with the mango soup followed by the wide variety of dishes served, I have developed the new love for Pongal(both sweet and Khara).I can still feel the taste of the ghee bursting in my mouth but it was""kai holige"" that made my day, crisp and soft.not to forget food is served on a banana leaf that adds in more flavor and taste.waiters are attentive and responsive.The customer's needs are monitored and addressed.so much variety for just 160Rs without compromising on quantity and quality and yes it is unlimited.This visit turned out to be a surprise package.'), ('Rated 3.5', 'RATED
+æ Food is good.
+No parking
+Ambience is average
+Overall its value for money if you looking for south Indian food.
+Preferred the tiffin items......'), ('Rated 3.0', ""RATED
+æ Been here last week with high expectations based on few reviews. But utterly disappointed with the food quality & taste. I feel it's an overhyped place! There are many better places in the vicinity for Plantain leaf meal. There was too much of waiting & these staffs were too hurry in serving food & asking people to finish meal & leave quickly. I can understand there is a waiting and staffs should approach in a positive way. I will never go there again!
+
+bangaloreepicure.com""), ('Rated 4.0', 'RATED
+æ I have a confession, being a south Indian I distaste south Indian food(not that I hate it, I don't like it either).But still made up my mind on Sankaranti to have authentic south Indian food visited ""Adduri Udupi Bhojana"" because it was close to my place.I just had a look at the menu told myself that I can do it(I am not blessed with a tremendous appetite).welcomed with the mango soup followed by the wide variety of dishes served, I have developed the new love for Pongal(both sweet and Khara).I can still feel the taste of the ghee bursting in my mouth but it was""kai holige"" that made my day, crisp and soft.not to forget food is served on a banana leaf that adds in more flavor and taste.waiters are attentive and responsive.The customer's needs are monitored and addressed.so much variety for just 160Rs without compromising on quantity and quality and yes it is unlimited.This visit turned out to be a surprise package.'), ('Rated 3.5', 'RATED
+æ Food is good.
+No parking
+Ambience is average
+Overall its value for money if you looking for south Indian food.
+Preferred the tiffin items......'), ('Rated 4.0', ""RATED
+æ Had been on a week night for an authentic south Indian food. I personally love being served on banyan leaf. The waiters are all dressed up in traditional Mysore attire wearing with a peta. The food was delicious and definitely worth it's price. The waiters are friendly and serve u well with a smile. The food is prepared without garlic which is a plus point attracting many senior customers.""), ('Rated 3.5', ""RATED
+æ Food is good and enjoyed. With 150 Rs. is very nice.
+Note: (It happen with us)
+ - If you going TWO people, you may need to share the table there. Its almost crowed.
+ - You have to sit where they ask, you can't choose even if all the table are empty. 
+Just wait, eat and come back.""), ('Rated 5.0', 'RATED
+æ Excellent Ambience with delicious meals with 10-15 variety types. Worth paying for money and you can dine out if you are with more friends/relatives in home.'), ('Rated 4.5', 'RATED
+æ Very good and Unlimited . especially masala dosa . Service and ambience was also good. will visit again with friends . very very reasonble and wholesome food'), ('Rated 3.5', 'RATED
+æ Aaaa wt to tell, Unlimited food, food was like exactly like south indian marriage food, 2 soups, sides masala dosa, all were unlimited for just ?150, except ice cream in the end ?? they give a water bottle, and main thing is have patience to get place to sit..... ??,there is no parking place of this outlet, and difficult to park in front of the restaurants,')]",[],Buffet,Banashankari,"Enjoy a delightful Buffet experience at our restaurant in the Banashankari area. With an approximate cost of _300 for two people, savor a variety of delicious cuisines including South Indian and North Indian. Our restaurant has received 88 votes from our valued customers. While we do not offer online ordering or table booking, we promise a satisfying dining experience with prompt service.
+
+Indulge in our highly recommended Masala Dosa, a favorite among our patrons. Whether youÕre in the mood for a quick bite or a leisurely meal, our buffet offers a wonderful array of flavors that caters to all preferences.","{'City': 'Banashankari', 'RestaurantType': 'Buffet', 'ApproximateCost': 300, 'Cuisine': ['South Indian', 'North Indian'], 'Votes': 'low'}"
+https://www.zomato.com/bangalore/grand-village-basavanagudi?context=eyJzZSI6eyJlIjpbIjU4Njk0IiwiMTgzNzU0NzQiLCI1OTA5MCIsIjE4MzgyOTQ0IiwxODIyNDY3NiwiNTkyODkiLCIxODM3MzM4NiJdLCJ0IjoiUmVzdGF1cmFudHMgaW4gQmFuYXNoYW5rYXJpIHNlcnZpbmcgQnVmZmV0In19,"10, 3rd Floor, Lakshmi Associates, Gandhi Bazaar Main Road, Above Reliance Trends, Basavanagudi, Bangalore",Grand Village,No,No,3.8/5,166,+91 8026612447,Basavanagudi,Casual Dining,"Panipuri, Gol Gappe","North Indian, Rajasthani",600,"[('Rated 4.0', 'RATED
+æ Very good restaurant in neighbourhood. Buffet system is properly arranged. Variety of dishes along with garba dance and puppet show. Good spread of desserts. Live paratha / Kulcha making'), ('Rated 4.0', 'RATED
+æ Great service, overwhelming experience.
+
+One of its kind experience. Grand village offers you some very desi food options.
+
+Jaljeera, buttermilk, chat papdi, bhajiya, dosa, pav bhaji, noodles, and so many curries kulcha, roti, and garama garam Jalebies, gulab jamuns.
+
+Beautiful ambience of village. People serving with smiles and with full heart !!
+
+So here goes my overall ratings :
+Food : 4/5
+Ambience : 3.5/5
+Service : 4/5
+Pocket friendly : 4/5')]",[],Buffet,Banashankari,"Experience a delightful Buffet at our restaurant in the lively Banashankari area. With an approximate cost of _600 for two people, enjoy a variety of exquisite cuisines including North Indian and Rajasthani. Our restaurant has earned 166 votes, reflecting the satisfaction of our patrons. Although we do not offer online ordering or table booking, we ensure a pleasant and prompt dining experience.
+
+Savor our highly recommended dishes such as Panipuri and Gol Gappe, which are favorites among our guests. Whether youÕre looking for a quick snack or a hearty meal, our buffet provides a flavorful and enjoyable dining experience that caters to all tastes.","{'City': 'Banashankari', 'RestaurantType': 'Buffet', 'ApproximateCost': 600, 'Cuisine': 'North Indian', 'Votes': 'low'}"
