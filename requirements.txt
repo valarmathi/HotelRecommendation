@@ -1,5 +1,7 @@
 Run the Requirements.ipynb to install all the needed packages
 
-The Requirements.ipynb has code to update the description for the datasent
+The Requirements.ipynb has code to update the description for the dataset
 
 The Requirements.ipynb also has the code to generate hotel_preferences for each hotel in the dataset.
+
+The config folder has a file called OpenAPI_Key.txt which has to be updated with proper keys.
