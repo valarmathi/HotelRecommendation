@@ -6,3 +6,4 @@ The chatbot recommends 3 hotels to the user and answers any follow-up questions 
 
 If the user is searching for hotels other than Bangalore region, proper responses will be shown to the user.
 
+Th code starts with app.py
